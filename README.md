@@ -26,7 +26,7 @@
 
 ## 📫 Connect
 
-* 💼 LinkedIn: *(Add your profile link)*
+* 💼 LinkedIn: *www.linkedin.com/in/velselvam-r-457739325*
 * 💻 GitHub: https://github.com/velselvam
 
 ⭐ Thanks for visiting my profile!
