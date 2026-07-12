@@ -24,16 +24,17 @@
 * 🎓 Anna University GPA & CGPA Calculator(coming soon)
 
 ## 📫 Connect
-## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/velselvam-r-457739325/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://github.com/velselvam">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/💻%20GitHub-Follow-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
