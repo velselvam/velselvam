@@ -28,15 +28,12 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/velselvam-r-457739325/">
-<img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0FF?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=00E5FF"/>
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://github.com/velselvam">
-<img src="https://img.shields.io/badge/💻%20GitHub-Follow-6C63FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=fff&labelColor=7B00FF"/>
 </a>
 
 </div>
-
 ⭐ Thanks for visiting my profile!
