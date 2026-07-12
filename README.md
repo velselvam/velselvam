@@ -21,13 +21,25 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/velselvam-r-457739325/">
-<img src="https://img.shields.io/badge/LinkedIn-0FF?style=for-the-badge&logo=linkedin&logoColor=000&labelColor=00E5FF"/>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/velselvam-r-457739325/" target="_blank">
+  <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/velselvam">
-<img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=fff&labelColor=7B00FF"/>
+&nbsp;&nbsp;
+
+<a href="https://github.com/velselvam" target="_blank">
+  <img src="https://img.shields.io/badge/💻%20GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/itz_vels_11.22/?hl=en" target="_blank">
+  <img src="https://img.shields.io/badge/📷%20Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
 
 </div>
 ⭐ Thanks for visiting my profile!
