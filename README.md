@@ -17,12 +17,6 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,js,react,git,github,firebase,mysql,vscode)](https://skillicons.dev)
 
 
-## 🚀 Featured Projects
-
-* 🖐️ Hand Gesture Virtual Mouse
-* 🌱 Smart Eco Environmental Monitoring System
-* 🎓 Anna University GPA & CGPA Calculator(coming soon)
-
 ## 📫 Connect
 
 <div align="center">
