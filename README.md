@@ -21,7 +21,7 @@
 
 * 🖐️ Hand Gesture Virtual Mouse
 * 🌱 Smart Eco Environmental Monitoring System
-* 🎓 Anna University GPA & CGPA Calculator
+* 🎓 Anna University GPA & CGPA Calculator(coming soon)
 
 ## 📫 Connect
 
