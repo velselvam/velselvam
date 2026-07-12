@@ -15,9 +15,7 @@
 
 ## 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,js,react,git,github,firebase,mysql,vscode)](https://skillicons.dev)
-**Languages:** Python • Java • C • JavaScript • HTML • CSS
 
-**Tools:** OpenCV • MediaPipe • React.js • Firebase • Git • GitHub • VS Code • ESP32
 
 ## 🚀 Featured Projects
 
