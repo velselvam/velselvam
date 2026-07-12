@@ -1,4 +1,4 @@
-#                👋 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 **𝙑𝙚𝙡𝙨𝙚𝙡𝙫𝙖𝙢**
+# ##               👋 𝙃𝙚𝙡𝙡𝙤, 𝙄'𝙢 **𝙑𝙚𝙡𝙨𝙚𝙡𝙫𝙖𝙢**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+AI%2FML+Engineer;Computer+Vision+Developer;Building+AI+%26+IoT+Projects)](https://git.io/typing-svg)
 ### 🚀 Computer Science Engineering Student | Aspiring AI/ML Engineer
 
