@@ -3,6 +3,9 @@
 ### 🚀 Computer Science Engineering Student | Aspiring AI/ML Engineer
 
 💡 Passionate about **AI, Machine Learning, Computer Vision, IoT,** and **Full Stack Development**.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=velselvam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=velselvam&layout=compact&theme=tokyonight)
 
 ## 👨‍💻 About Me
 
