@@ -1,4 +1,4 @@
-# Hi 👋, I'm Velselvam
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F630&width=435&lines=Hi%2C+I'm+Velselvam)](https://git.io/typing-svg)
 
 ### 🚀 Computer Science Engineering Student | Aspiring AI/ML Engineer
