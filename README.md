@@ -3,9 +3,7 @@
 ### 🚀 Computer Science Engineering Student | Aspiring AI/ML Engineer
 
 💡 Passionate about **AI, Machine Learning, Computer Vision, IoT,** and **Full Stack Development**.
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=velselvam&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=velselvam&layout=compact&theme=tokyonight)
 
 ## 👨‍💻 About Me
 
@@ -16,7 +14,7 @@
 * 📚 Always exploring new technologies
 
 ## 🛠️ Tech Stack
-
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,html,css,js,react,git,github,firebase,mysql,vscode)](https://skillicons.dev)
 **Languages:** Python • Java • C • JavaScript • HTML • CSS
 
 **Tools:** OpenCV • MediaPipe • React.js • Firebase • Git • GitHub • VS Code • ESP32
