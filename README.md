@@ -61,37 +61,18 @@ Tools
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-🚀 Featured Projects
+### 🚀 Projects
 
-🖐️ Hand Gesture Controlled Virtual MouseComputer Vision project using Python, OpenCV and MediaPipe.
+> A collection of my projects, experiments, and learning journey across 
+> **AI/ML, Computer Vision, IoT, Web Development, and Software Development.**
 
-🌱 Smart Eco Environmental Monitoring SystemIoT-based environmental monitoring system using ESP32, sensors and Firebase.
+📌 **Projects are continuously being added. Stay tuned! 🚀**
 
-🌾 AI-Based Farmer Advisory SystemExploring offline-first AI and IoT solutions to support farmers.
-
-🛰️ MAITRI – AI Assistant for AstronautsAn AI assistant concept designed for space and astronaut support applications.
-
-📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=velselvam&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velselvam&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=velselvam&theme=radical&hide_border=true" />
-</p>
 
 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.devomb.com/?username=velselvam&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
-🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/velselvam/velselvam/output/github-contribution-grid-snake.svg" />
 </p>
 
 📫 Connect With Me
