@@ -13,23 +13,21 @@
   <img src="https://img.shields.io/github/followers/velselvam?label=Followers&style=social" />
 </p>
 
-🚀 About Me
+### 🚀 About Me
 
 🎓 B.E. Computer Science and Engineering Student
 
-💻 Passionate about Python, Java, AI/ML, IoT & Full Stack Development
+💻 Passionate about Python, Java, AI/ML, AI with Full Stack Development
 
 🤖 Exploring Artificial Intelligence, Machine Learning & Computer Vision
 
 🌐 Building modern web applications using React, JavaScript & Tailwind CSS
 
-📡 Interested in developing real-world IoT and smart automation solutions
-
 🧠 Learning by building projects, participating in hackathons and exploring new technologies
 
 🚀 Aspiring to build impactful technology solutions for real-world problems
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Programming Languages
 
@@ -69,19 +67,29 @@ Tools
 📌 **Projects are continuously being added. Stay tuned! 🚀**
 
 
-🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-trophies.devomb.com/?username=velselvam&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
-📫 Connect With Me
+### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/velselvam"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF1744?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
+</a>
+
+<a href="https://github.com/velselvam">
+<img src="https://img.shields.io/badge/GitHub-View%20Projects-FFD600?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
+</a>
+
+<a href="https://www.instagram.com/itz_vels_11.22/">
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-FF1744?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
+</a>
+
+</p>
 <p align="center">
   💜 <i>Building. Learning. Creating. Growing.</i> 🚀
 </p>
