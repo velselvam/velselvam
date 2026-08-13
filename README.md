@@ -77,7 +77,7 @@ Tools
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/velselvam-r-457739325/">
 <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-FF1744?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 
